@@ -7,6 +7,15 @@ public class Main {
         System.out.println("Hello and welcome!");
         System.out.println("Salutations");
         //Salut les gars en italien
+        System.out.println("Ciao ragazzo46675677657 !");
+        System.out.println("Ciao ragazzo !");
+        System.out.println("Ciao ragazzo !");
+        System.out.println("Ciao ragazzo !");
+        System.out.println("Ciao ragazzo !");
+        System.out.println("Ciao ragazzo !");
+        System.out.println("Ciao ragazzo !");
+        System.out.println("Ciao ragazzo !");
+        System.out.println("Ciao ragazzo !");
         System.out.println("Ciao ragazzo !");
     }
 }

@@ -17,5 +17,6 @@ public class Main {
         System.out.println("Ciao ragazzo !");
         System.out.println("Ciao ragazzo !");
         System.out.println("Ciao ragazzo !");
+        System.out.println("Bella Ciao !");
     }
 }
